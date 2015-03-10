@@ -37,7 +37,7 @@ module.exports = Backbone.View.extend({
 
     // Register the callback to be fired every time auth state changes
     // TODO: we should be making all these references with models / collectons
-    app.ref = new Firebase("https://blinding-torch-9943.firebaseio.com");
+    app.ref = new Firebase("https://lighterfluid.firebaseIO.com");
     app.ref.onAuth(this.authDataCallback);
   },
 

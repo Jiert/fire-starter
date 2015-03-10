@@ -1,5 +1,5 @@
 {
-  "firebase": "blinding-torch-9943",
+  "firebase": "lighterfluid",
   "public": ".",
   "ignore": [
     "firebase.json",

@@ -5,7 +5,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jiert/Brew-Journal.git"
+    "url": "https://github.com/Jiert/fire-starter.git"
   },
   "scripts": {
     "watch-js": "watchify init.js -o bundle.js -dv"

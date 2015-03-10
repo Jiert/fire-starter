@@ -4,5 +4,5 @@ var _ = require('underscore'),
     
 module.exports = Backbone.Firebase.Collection.extend({
   model: Room,
-  url: 'https://blinding-torch-9943.firebaseio.com/rooms'
+  url: 'https://lighterfluid.firebaseIO.com/rooms'
 });
